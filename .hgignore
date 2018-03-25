@@ -1,0 +1,3 @@
+syntax: glob
+cmake-build-debug/
+test_package/build/
