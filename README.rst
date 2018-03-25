@@ -1,7 +1,7 @@
 conan-gsl
 =========
 
-Conan package for the `GNU Scientific Library (GSL)`_ C/C++ library.
+Conan package for the C/C++ `GNU Scientific Library (GSL)`_.
 
 Requires CMake, sources are fetched from `ampl's GitHub repository`_.
 
@@ -13,4 +13,4 @@ Requires CMake, sources are fetched from `ampl's GitHub repository`_.
 
 
 .. _`GNU Scientific Library (GSL)`: http://www.gnu.org/software/gsl/
-.. _`ampl's GitHub repository:`: https://github.com/ampl/gsl
+.. _`ampl's GitHub repository`: https://github.com/ampl/gsl
